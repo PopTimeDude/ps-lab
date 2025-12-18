@@ -1,0 +1,2 @@
+New-Item -sample.txt
+Set-Content "Hello, Powershell!"
